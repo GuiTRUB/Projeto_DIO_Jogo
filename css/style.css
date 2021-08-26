@@ -1,0 +1,24 @@
+body {
+    height: 95vh;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: rgb(61, 212, 61);
+}
+body {
+    background-color:tomato;
+}
+.cake {
+    color: brown;
+}
+
+.botao {
+    margin-top: 10px;
+    padding: 5px;
+    background-color: indigo;
+    border-radius: 10%;
+    size: 30px;
+    color:white;
+}
